@@ -1,0 +1,14 @@
+body {
+	background: #222;
+	margin: 100px auto;
+	width: 400px;
+	color: #d0d7e4;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+}
+
+h1 {
+	margin-bottom: 3rem;
+	text-align: center;
+	font-weight: 900;
+}

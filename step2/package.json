@@ -1,0 +1,13 @@
+{
+  "name": "webpack-demo",
+  "version": "0.0.2",
+  "description": "Find. Anything. - A Webpack Experiment",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alper Ortac <alper@squiek.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.12.0"
+  }
+}

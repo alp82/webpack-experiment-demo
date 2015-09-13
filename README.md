@@ -11,7 +11,7 @@ The slides that explain this demonstration can be found here:
 * [Online Slides](https://alp82.github.io/webpack-experiment-slides)
 * [Slide Sources](https://github.com/alp82/webpack-experiment-slides)
 
-# Step by Step
+# Installation (Step by Step)
 This repository has six subfolders named **step1** to **step6**. Each step is based one on the other, and progressively demonstrates the main benefits of using Webpack as a module bundler.
 
 To build each step, go into the folder and do the following:

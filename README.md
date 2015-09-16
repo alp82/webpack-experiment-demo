@@ -1,6 +1,8 @@
 # webpack-experiment-demo
 Demo for an experiment with [Webpack](http://webpack.github.io/), which is a step by step code example with explanatory slides.
 
+Online version of finished app can be found at [Online Demo](http://alp82.github.io/webpack-experiment-demo/).
+
 # Purpose
 This is a demonstration for Webpack beginners to learn about module bundlers and how they can improve web development. It's a working application that takes a search query and shows suitable gifs as a result.
  

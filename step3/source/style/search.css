@@ -64,7 +64,7 @@
 
 /*hover*/
 
-.search input:hover, .search input:focus, .search input:active{
+.search input:hover, .search input:focus, .search input:active {
 	outline:none;
 	background: #424652;
 }
